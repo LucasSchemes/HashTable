@@ -1,1 +1,3 @@
-# HashTable
+ - HashTable in C++.
+ - Data structure that maps keys to values.
+ - Main tests the code
